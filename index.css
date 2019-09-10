@@ -157,7 +157,7 @@
 	background-size: 100% 100%;
     }
     .search-bottom {
-	width: 800px;
+	width: 700px;
 	height: 20px;
     }
     .search-bottom a{
@@ -176,33 +176,7 @@
 	vertical-align: top;
 	margin-left: 120px;
 	position: relative;
-    }
-    .search-con .code-box .phone {
-	color: #ff5000;
-	font-size: 14px;
-	line-height: 20px;
-	margin-left: 6px;
-    }
-    .search-con .code-box .code {
-	display: inline-block;
-	width: 62px;
-	height: 62px;
-	background: url('./img/ewm.png') no-repeat;
-	background-size: 100% 100%;
-	margin-left: 6px;
-	}
-    .search-con .code-box .close {
-	width: 16px;
-	height: 16px;
-	text-align: center;
-	line-height: 16px; /*垂直居中*/
-	position: absolute;
-	display: inline-block;
-	top: 0;
-	left: -18px;
-	border: 1px solid #eee;
-	font-size: 14px;
-    }
+  }
 /*搜索下的导航条*/
     .screen-nav {
   	width: 1190px;
