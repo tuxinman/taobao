@@ -19,7 +19,7 @@
 	width: 1190px;
 	height: 35px;
 	margin: 0 auto;
-    }
+	}
     .top-nav-l {
 	float: left;
     }
@@ -293,10 +293,10 @@
     .inner-content .inner-mall .tm {
 	font-size: 12px;
 	color: #666;
-    }
+	}
     .inner-right {
 	float: left;
-	padding: 8px;
+	padding: 0;
 	width: 160px;
 	height: 522px;
     }
@@ -381,11 +381,9 @@
     }
     .col-right .member .member-head .head a {
 	display: inline-block;
-	width: 50px;
+	width: 100px;
 	height: 50px;
 	border-radius: 50%;
-	background-image: url('./img/tx.jpg');
-	background-size: 100% 100%;
     }
     .col-right .member .member-head p {
 	width: 290px;
